@@ -1,0 +1,24 @@
+# venv
+.env
+db.sqlite3
+Microsoft
+
+# Python
+__pycache__
+.pytest_cache
+poetry.lock
+
+
+# Logs
+logs/*
+
+
+# Dev
+frontend
+
+
+# Misc
+static.env
+db.sqlite3
+poetry.lock
+__pycache__
